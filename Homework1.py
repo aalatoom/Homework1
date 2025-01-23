@@ -1,0 +1,7 @@
+print("First homework assignment")
+print("Python is the better than Java")
+print("Top 3 videogames, best to worse :")
+this_list=("Call of duty", "Sonic", "Titanfall")
+print(this_list[1])
+print(this_list[0])
+print(this_list[2])
